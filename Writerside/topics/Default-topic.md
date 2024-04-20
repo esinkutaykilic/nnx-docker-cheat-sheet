@@ -227,4 +227,4 @@ docker volume prune
 ---
 
 ## -
-Thanks to [post of @Zeeshan Skaheel](https://www.linkedin.com/feed/update/urn:li:activity:7187133018866696193?utm_source=share&utm_medium=member_desktop)
+Thanks to [the post of @Zeeshan Skaheel](https://www.linkedin.com/feed/update/urn:li:activity:7187133018866696193?utm_source=share&utm_medium=member_desktop)
